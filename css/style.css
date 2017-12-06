@@ -11,7 +11,7 @@
 }
 body {
 	background: url(../images/bg-body.jpg) repeat;
-	color: green;
+	color: red;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 1;
@@ -72,7 +72,7 @@ body {
 }
 #header ul li a {
 	background: url(../images/menu.png) no-repeat;
-	color: #a8a8a8;
+	color: white;
 	display: block;
 	font-family: 'Philosopher-Bold';
 	font-size: 16px;
